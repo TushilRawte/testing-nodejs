@@ -10,6 +10,9 @@
   },
   "author": "Tushil",
   "license": "ISC",
+    "engines": {
+    "node": "18.14.2"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
