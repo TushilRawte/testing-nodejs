@@ -1,7 +1,7 @@
 const express = require('express'); //including module/package
 const app = express(); // creating object
-// const PORT = process.env.PORT || 3000
-var port = 4000;
+const PORT = process.env.PORT || 3000
+//var port = 4000;
 
 const emp = [
     { empid:1, empname:"tushil", empsalary:60000 },
